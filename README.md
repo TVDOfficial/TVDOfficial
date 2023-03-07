@@ -42,7 +42,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TVDOfficial&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@7fe135e3-4a6b-458a-a7f9-514f5e7350e7&compact=True"/>
 </a>
 <br>
 
