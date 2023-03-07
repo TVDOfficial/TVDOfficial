@@ -48,7 +48,7 @@
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
+<br>
 ![TVDOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight)
 
 
@@ -58,4 +58,3 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
