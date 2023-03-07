@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on A secret....
+- 🔭 I’m currently working on a secret Project in Flutter for iOS and Android - Stay Tuned!
 
 - 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
 
