@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on a secret Project in Flutter for iOS and Android - Stay Tuned!
 
-- 🌱 I’m currently learning Data Science, AWS, Data Engineering etc... 
+- 🌱 I’m currently learning the Flutter/Dart programming language. 
 
 - 👯 I’m looking to collaborate on projects, tech articles... 
 
