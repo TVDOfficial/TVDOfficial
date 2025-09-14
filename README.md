@@ -16,11 +16,17 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
+
 👋 Hi, I’m Mathew Pittard
+
 🚀 Automation Engineer | Systems Integrator | AI Workflow Developer
+
 💡 Passionate about building SaaS platforms, automation tools, and AI-driven solutions.
+
 🔧 Skilled in Python, PowerShell, cloud tech (AWS/GCP), and low-code automation (N8N).
+
 📌 Founder of Adwheels (vehicle advertising SaaS) & creator of AssetWarden (asset management platform).
+
 ⚡ Always tinkering with new ideas, from IT infrastructure automation to AI-enhanced apps.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
