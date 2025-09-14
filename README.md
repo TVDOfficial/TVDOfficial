@@ -16,13 +16,12 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on a secret Project in Flutter for iOS and Android - Stay Tuned!
-
-- 🌱 I’m currently learning the Flutter/Dart programming language. 
-
-- 👯 I’m looking to collaborate on projects, tech articles... 
-
-- 💬 Talk to me about Python, JavaScript, Flutter & Freelancing Opportunites. 
+👋 Hi, I’m Mathew Pittard
+🚀 Automation Engineer | Systems Integrator | AI Workflow Developer
+💡 Passionate about building SaaS platforms, automation tools, and AI-driven solutions.
+🔧 Skilled in Python, PowerShell, cloud tech (AWS/GCP), and low-code automation (N8N).
+📌 Founder of Adwheels (vehicle advertising SaaS) & creator of AssetWarden (asset management platform).
+⚡ Always tinkering with new ideas, from IT infrastructure automation to AI-enhanced apps.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/TVDOfficial?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
