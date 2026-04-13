@@ -1,90 +1,50 @@
+<!-- Dynamic gradient banner -->
 <div align="center">
-<img width="100%" height = "300px" src="https://github.com/TVDOfficial/TVDOfficial/blob/main/nature-3082832_1280.jpg" alt="cover" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Mat%20Pittard&fontSize=45&fontColor=fff&animation=fadeIn" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
+<h3 align="center">Automation Engineer · Systems Integrator · AI Workflow Developer</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/TVDOfficial.https://github.com/TVDOfficial)
-
+<p align="center">
+  <a href="https://mathewpittard.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mathewpittard"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mathew@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
-<div size='20px'> Hi! My name is Mathew. Thank You for taking the time to view my GitHub Profile :smile: 
+
+---
+
+### Currently Building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Adwheels** | Vehicle advertising SaaS marketplace | React, Node.js, PostgreSQL |
+| **AssetWarden** | IT asset tracking with automation | Python, Flutter, Firebase |
+| **HitchSafe** | Personal safety app with real-time SOS | Flutter, Firebase, Maps API |
+
+---
+
+### Tech Stack
+
+**Languages:** Python · JavaScript · TypeScript · PowerShell · Dart  
+**Cloud:** AWS · GCP · Firebase · Vercel  
+**Automation:** N8N · Zapier · GitHub Actions  
+**Mobile:** Flutter · React Native
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVDOfficial&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVDOfficial&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
 </div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-
-
-
-👋 Hi, I’m Mathew Pittard
-
-🚀 Automation Engineer | Systems Integrator | AI Workflow Developer
-
-💡 Passionate about building SaaS platforms, automation tools, and AI-driven solutions.
-
-🔧 Skilled in Python, PowerShell, cloud tech (AWS/GCP), and low-code automation (N8N).
-
-📌 Founder of Adwheels (vehicle advertising SaaS) & creator of AssetWarden (asset management platform).
-
-⚡ Always tinkering with new ideas, from IT infrastructure automation to AI-enhanced apps.
-
-<h2> Skills <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32px" height="32px"> </h2>
-
-<a href="https://github.com/TVDOfficial?tab=repositories&language=python">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=javascript">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=html">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=css">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=java">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=mysql">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=flutter">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=dart">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dart.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=swift">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=nodejs">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-</a>
-<a href="https://github.com/TVDOfficial?tab=repositories&language=reactnative">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg">
-</a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
-<a href = 'https://www.github.com/TVDOfficial'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@@7fe135e3-4a6b-458a-a7f9-514f5e7350e7&compact=True"/>
-</a>
-<br>
-
-
-<h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-
-![TVDOfficial's GitHub stats](https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight)
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
-
-<br>
