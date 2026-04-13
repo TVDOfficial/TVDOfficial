@@ -38,14 +38,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVDOfficial&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-### GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TVDOfficial&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://ghchart.rshah.org/667eea/TVDOfficial" alt="GitHub Contribution Graph" width="100%" />
 </p>
-
-<p align="center"><sub>Stats via <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></sub></p>
 
 ---
 
