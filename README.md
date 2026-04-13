@@ -35,11 +35,12 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TVDOfficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="60%" alt="GitHub Stats" />
 </p>
 
-<img src="https://ghchart.rshah.org/667eea/TVDOfficial" alt="GitHub Contribution Graph" width="100%" />
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/667eea/TVDOfficial" alt="Contribution Graph" width="90%" />
+</p>
 
 ---
 
